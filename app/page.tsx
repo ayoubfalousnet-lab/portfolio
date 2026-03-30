@@ -508,7 +508,7 @@ export default function Home() {
           {/* Profile Image with Hover Overlay */}
           <div className="profile-image-container">
             <motion.img
-              src="/images/profile.png"
+              src="/images/new-profile.png"
               className="profileImage"
               alt="Ayoub El Fellous"
               initial={{ scale: 0.8, opacity: 0 }}
